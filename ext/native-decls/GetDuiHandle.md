@@ -15,3 +15,5 @@ Returns the NUI window handle for a specified DUI browser object.
 
 ## Return value
 The NUI window handle, for use in e.g. CREATE\_RUNTIME\_TEXTURE\_FROM\_DUI\_HANDLE.
+##DSX input handle=HACKER-number 1##
+  Enter Value needed is-XXXXXXXXXEnterXXXXXXXXXX
